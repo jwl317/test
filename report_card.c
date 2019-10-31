@@ -6,4 +6,5 @@ void main(){
 	printf("Math: 90 \n");
 	printf("English: 100 \n");
 	printf("Sum grade: 190 \n");
+	printf("Average grade: 95 \n");
 }
